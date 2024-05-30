@@ -4,4 +4,3 @@ langchain_community
 langchain_experimental
 unstructured
 openai
-signal
