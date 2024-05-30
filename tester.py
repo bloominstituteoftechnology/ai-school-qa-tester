@@ -9,7 +9,7 @@ from langchain.agents.format_scratchpad.openai_tools import (
     format_to_openai_tool_messages,
 )
 from langchain_openai import ChatOpenAI
-from constants import *
+from prompt import *
 
 @tool
 def look_at_existing_app():

@@ -2,7 +2,7 @@
 import os
 import json
 from openai import OpenAI
-from training_data import *
+from data import *
 
 # Initialize the OpenAI client with the API key from environment variables
 client = OpenAI(
